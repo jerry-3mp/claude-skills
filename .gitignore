@@ -169,6 +169,7 @@ Temporary Items
 
 # Project-specific
 .claude/
+.idea/
 local/
 temp/
 tmp/
